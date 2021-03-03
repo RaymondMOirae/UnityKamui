@@ -1,8 +1,8 @@
-# README
+# UnityKamui
 
 An implementation of Kamui skill effect (from video game *Naruto Shippuden: Ultimate Ninja Storm 4*) in Unity.
 
-![](.\pics\Screenshot 2021-03-03 170014.png)
+![](https://github.com/RaymondMOirae/UnityKamui/blob/master/pics/Screenshot%202021-03-03%20170014.png)
 
 This repository was newly separated from a private repository for readers' convenience.
 
